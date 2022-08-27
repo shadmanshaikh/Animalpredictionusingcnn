@@ -19,6 +19,8 @@ Install all requirements by running the following command
 
 > pip install requirements.txt
 
+</br> You can find the dataset [here](https://www.kaggle.com/c/dogs-vs-cats/data) </br>
+
 ## Run it on [Google Colab](https://colab.research.google.com/) or JupyterNotebook
 
 * To access and use the project, download or clone the repository. 
